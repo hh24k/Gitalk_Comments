@@ -1,2 +1,2 @@
-# Gitalk_Comments
+# gitalk_comments
 Gitalk comments per my blog ...
